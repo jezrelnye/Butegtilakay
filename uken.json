@@ -11,6 +11,16 @@
   },
   {
     "id": 2,
+        "nagan": "Puerto Galera",
+    "name": "Port of the Galleons - Puerto Galera",
+    "imageUrl": "https://raw.githubusercontent.com/jezrelnye/Butegtilakay/master/image/galera.jpg",
+    "price": 425.2,
+    "priceCurrency": "Km",
+    "lat": 13.5019,
+    "lng": 120.9541
+  },
+  {
+    "id": 3,
     "nagan": "Puerto Princesa",
     "name": "Subterranean River National Park - Puerto Princesa",
     "imageUrl": "https://raw.githubusercontent.com/jezrelnye/Butegtilakay/master/image/puerto.jpg",
@@ -20,27 +30,7 @@
     "lng": 118.7855
   },
   {
-    "id": 3,
-    "nagan": "Puerto Galera",
-    "name": "Port of the Galleons - Puerto Galera",
-    "imageUrl": "https://raw.githubusercontent.com/jezrelnye/Butegtilakay/master/image/galera.jpg",
-    "price": 425.2,
-    "priceCurrency": "Km",
-    "lat": 13.5019,
-    "lng": 120.9541
-  },
-  {
     "id": 4,
-    "nagan": "Boracay",
-    "name": "It's known for its resorts and beaches - Boracay",
-    "imageUrl": "https://raw.githubusercontent.com/jezrelnye/Butegtilakay/master/image/boracay.jpg",
-    "price": 728.0,
-    "priceCurrency": "Km",
-    "lat": 11.9674,
-    "lng": 121.9248
-  },
-  {
-    "id": 5,
     "nagan": "Mactan Island",
     "name": "A densely populated island located a few kilometres from Cebu Island in the Philippines - Mactan Island",
     "imageUrl": "https://raw.githubusercontent.com/jezrelnye/Butegtilakay/master/image/mactan.jpg",
@@ -48,6 +38,16 @@
     "priceCurrency": "Km",
     "lat": 10.2990,
     "lng": 123.9639
+  },
+  {
+    "id": 5,
+    "nagan": "Boracay",
+    "name": "It's known for its resorts and beaches - Boracay",
+    "imageUrl": "https://raw.githubusercontent.com/jezrelnye/Butegtilakay/master/image/boracay.jpg",
+    "price": 728.0,
+    "priceCurrency": "Km",
+    "lat": 11.9674,
+    "lng": 121.9248
   },
   {
     "id": 6,
@@ -91,13 +91,13 @@
   },
   {
     "id": 10,
-    "nagan": "Banaue Rice Terraces",
-    "name": "Terraces that were carved into the mountains of Ifugao - Banaue Rice Terraces",
-    "imageUrl": "https://raw.githubusercontent.com/jezrelnye/Butegtilakay/master/image/banaue.jpg",
-    "price": 204.5,
+    "nagan": "Subic Bay",
+    "name": "Bay on the west coast of the island of Luzon - Subic Bay",
+    "imageUrl": "https://raw.githubusercontent.com/jezrelnye/Butegtilakay/master/image/subic.jpg",
+    "price": 308.8,
     "priceCurrency": "Km",
-    "lat": 16.9240,
-    "lng": 121.0556
+    "lat": 14.7911,
+    "lng": 120.2397
   },
   {
     "id": 11,
@@ -111,13 +111,13 @@
   },
   {
     "id": 12,
-    "nagan": "Subic Bay",
-    "name": "Bay on the west coast of the island of Luzon - Subic Bay",
-    "imageUrl": "https://raw.githubusercontent.com/jezrelnye/Butegtilakay/master/image/subic.jpg",
-    "price": 308.8,
+    "nagan": "Banaue Rice Terraces",
+    "name": "Terraces that were carved into the mountains of Ifugao - Banaue Rice Terraces",
+    "imageUrl": "https://raw.githubusercontent.com/jezrelnye/Butegtilakay/master/image/banaue.jpg",
+    "price": 204.5,
     "priceCurrency": "Km",
-    "lat": 14.7911,
-    "lng": 120.2397
+    "lat": 16.9240,
+    "lng": 121.0556
   },
   {
     "id": 13,
