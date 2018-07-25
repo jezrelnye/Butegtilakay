@@ -11,122 +11,50 @@
   },
   {
     "id": 2,
-    "nagan": "Puerto Princesa",
-    "name": "Subterranean River National Park - Puerto Princesa",
-    "imageUrl": "https://raw.githubusercontent.com/johkensut06/sutter/master/image/puerto.jpg",
-    "price": 1031.7,
-    "priceCurrency": "Km",
-    "lat": 9.9672,
-    "lng": 118.7855
+    
   },
   {
     "id": 3,
-    "nagan": "Puerto Galera",
-    "name": "Port of the Galleons - Puerto Galera",
-    "imageUrl": "https://raw.githubusercontent.com/johkensut06/sutter/master/image/galera.jpg",
-    "price": 403.4,
-    "priceCurrency": "Km",
-    "lat": 13.5019,
-    "lng": 120.9541
+    
   },
   {
     "id": 4,
-    "nagan": "Boracay",
-    "name": "It's known for its resorts and beaches - Boracay",
-    "imageUrl": "https://raw.githubusercontent.com/johkensut06/sutter/master/image/boracay.jpg",
-    "price": 706.3,
-    "priceCurrency": "Km",
-    "lat": 11.9674,
-    "lng": 121.9248
+    
   },
   {
     "id": 5,
-    "nagan": "Mactan Island",
-    "name": "A densely populated island located a few kilometres from Cebu Island in the Philippines - Mactan Island",
-    "imageUrl": "https://raw.githubusercontent.com/johkensut06/sutter/master/image/mactan.jpg",
-    "price": 1115.5,
-    "priceCurrency": "Km",
-    "lat": 10.2990,
-    "lng": 123.9639
+    
   },
   {
     "id": 6,
-    "nagan": "Panglao Island",
-    "name": "An island in the north Bohol Sea - Panglao Island",
-    "imageUrl": "https://raw.githubusercontent.com/johkensut06/sutter/master/image/panglao.jpg",
-    "price": 1222.4,
-    "priceCurrency": "Km",
-    "lat": 9.5731,
-    "lng": 123.7629
+    
   },
   {
     "id": 7,
-    "nagan": "Chocolate Hills",
-    "name": "A geological formation in the Bohol province - Chocolate Hills",
-    "imageUrl": "https://raw.githubusercontent.com/johkensut06/sutter/master/image/chocolate.jpg",
-    "price": 1189.6,
-    "priceCurrency": "Km",
-    "lat": 9.8297,
-    "lng": 124.1397
+    
   },
   {
     "id": 8,
-    "nagan": "Hundred Islands National Park",
-    "name": " The first national park and a protected area located in Alaminos - Hundred Islands",
-    "imageUrl": "https://raw.githubusercontent.com/johkensut06/sutter/master/image/hundred.jpg",
-    "price": 124.3,
-    "priceCurrency": "Km",
-    "lat": 16.2040,
-    "lng": 120.0409
+    
   },
   {
     "id": 9,
-    "nagan": "Kawasan Falls",
-    "name": "Trio of picturesque waterfalls into natural swimming pools & lagoons - Kawasan Falls",
-    "imageUrl": "https://raw.githubusercontent.com/johkensut06/sutter/master/image/kawasan.jpg",
-    "price": 1160.5,
-    "priceCurrency": "Km",
-    "lat": 9.8024,
-    "lng": 123.3742
+    
   },
   {
     "id": 10,
-    "nagan": "Banaue Rice Terraces",
-    "name": "Terraces that were carved into the mountains of Ifugao - Banaue Rice Terraces",
-    "imageUrl": "https://raw.githubusercontent.com/johkensut06/sutter/master/image/banaue.jpg",
-    "price": 215.2,
-    "priceCurrency": "Km",
-    "lat": 16.9240,
-    "lng": 121.0556
+    
   },
   {
     "id": 11,
-    "nagan": "Calamian Islands",
-    "name": "Group of islands in the Philippine province of Palawan - Calamian Islands",
-    "imageUrl": "https://raw.githubusercontent.com/johkensut06/sutter/master/image/calamian.jpg",
-    "price": 698.7,
-    "priceCurrency": "Km",
-    "lat": 11.8999964,
-    "lng": 120.2333324
+    
   },
   {
     "id": 12,
-    "nagan": "Subic Bay",
-    "name": "Bay on the west coast of the island of Luzon - Subic Bay",
-    "imageUrl": "https://raw.githubusercontent.com/johkensut06/sutter/master/image/subic.jpg",
-    "price": 241.1,
-    "priceCurrency": "Km",
-    "lat": 14.7911,
-    "lng": 120.2397
+   
   },
   {
     "id": 13,
-    "nagan": "Calaguas",
-    "name": "Also known as Calaguas Islands - Calaguas",
-    "imageUrl": "https://raw.githubusercontent.com/johkensut06/sutter/master/image/calaguas.jpg",
-    "price": 624.4,
-    "priceCurrency": "Km",
-    "lat": 14.4500,
-    "lng": 122.9167
+    
   }
 ]
